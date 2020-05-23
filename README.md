@@ -1,2 +1,3 @@
-# LeetCode
-All my LeetCode programs you can find here
+# leetcode
+My try at Leetcode
+
